@@ -1628,16 +1628,16 @@ g:coc_config_home					*g:coc_config_home*
 	Configure the directory which will be used to look for
 	`coc-settings.json`, default:
 
-	Windows: `~/AppData/Local/nvim`
-	Other: `~/.config/nvim`
+	Windows: `~/AppData/Local/nvim-12.5.0`
+	Other: `~/.config/nvim-12.5.0`
 
 g:coc_data_home						*g:coc_data_home*
 
 	Configure the directory which will be used to for coc data
 	files(extensions, mru and so on), default:
 
-	Windows: `~/AppData/Local/coc`
-	Other: `~/.config/coc`
+	Windows: `~/AppData/Local/coc-12.5.0`
+	Other: `~/.config/coc-12.5.0`
 
 g:coc_sources_disable_map 				*g:coc_sources_disable_map*
 
